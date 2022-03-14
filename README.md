@@ -9,4 +9,4 @@ I'm a french developer.
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-You can ceck out my personnal site at http://www.thomasmosset.fr/
+You can check out my personnal site at http://www.thomasmosset.fr/
